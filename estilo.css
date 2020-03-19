@@ -1,0 +1,11 @@
+#tabela {
+    margin: auto;
+    margin-top: auto;
+}
+
+td {
+    text-align: center;
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px #000000;
+    border: 1px solid #000000;
+}
